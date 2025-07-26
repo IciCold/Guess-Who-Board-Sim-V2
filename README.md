@@ -1,8 +1,10 @@
 # Guess-Who-Board-Sim-V2
-better engine, dont know about performance though
-
-this is for creating the guess-who board automatically from a set folder of images
-
+better engine, dont know about performance though  
+  
+go in the master branch to download the exe file  
+  
+this is for creating the guess-who board automatically from a set folder of images  
+  
 To prepare:  
 Step 1: Prepare the folders with the images you wanted  
 Step 2: Name the images files with the name you want (keep in mind it will be used later)  
